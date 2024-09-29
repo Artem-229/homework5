@@ -1,5 +1,5 @@
 a = int(input())
 b = int(input())
 
-res = a + b
+res = a - b
 print(res)
