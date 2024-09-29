@@ -1,3 +1,5 @@
-a = int(input("Введите первое число"))
-b = int(input("Введите второе число"))
-print(a, b)
+a = int(input())
+b = int(input())
+
+res = a + b
+print(res)
